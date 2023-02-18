@@ -1,6 +1,6 @@
 ---
 title: Blog
-layout: blog
+layout: comingsoon
 ---
 
 {% assign posts = site.posts | sort: "date" | sort: "updated" | reverse %}

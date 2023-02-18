@@ -1,7 +1,7 @@
-title: Mirko Brombin
+title: gabs
 description: 
-author: Mirko brombin
-email: send@mirko.pm
+author: Gabs
+email: gaba@duck.com
 
 assets: /assets
 uploads: /uploads
@@ -30,18 +30,14 @@ navigation:
       name: Me
     - link: "/blog/"
       name: Blog
-    - link: "/texts/"
-      name: Texts
-    - link: "/food/"
-      name: Food
     - link: "/bookmarks/"
       name: Bookmarks
     - link: "/projects/"
       name: Projects
     - link: "/contributions/"
       name: Contributions
-    - link: "https://t.me/mirkofeeds"
-      name: Feed
+    - link: "emailto:gaba@duck.com"
+      name: Email
 
 plugins:
   - jekyll-feed
