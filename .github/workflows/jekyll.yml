@@ -61,9 +61,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
-        
-- name: Clear gem cache
-  run: |
-    sudo gem update --system
-    sudo gem clean
-    sudo gem install bundler
