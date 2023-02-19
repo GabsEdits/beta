@@ -1,2 +1,5 @@
-ruby '3.0.5'
+ruby '3.2.0'
 gem 'jekyll', '3.9.3'
+gem "jekyll-feed", "~> 0.12"  #  ruby '3.2.0'
+gem 'kramdown-parser-gfm'
+gem 'webrick'
